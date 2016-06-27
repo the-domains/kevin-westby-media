@@ -4,11 +4,11 @@ color:
   lightness: 0.850612
   brandStrength: 0.939202
   brandColors:
-    - '#010101'
-    - '#355C95'
-    - '#DCDBBD'
-    - '#6692BF'
-    - '#FE905B'
+    - '#1D548D'
+    - '#85A6D3'
+    - '#012350'
+    - '#E2E6E7'
+    - '#5F827C'
   rhythmicContrast: 0.6259357
 typography_spectrum: 0.1044776
 name: Kevin Westby Media
