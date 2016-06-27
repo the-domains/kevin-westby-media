@@ -1,4 +1,5 @@
-layout_spectrum: 0.6749067
+layout_spectrum: 1
+typography_spectrum: 0.1044776
 color:
   saturation: 0.5684191
   lightness: 0.850612
@@ -10,5 +11,4 @@ color:
     - '#E2E6E7'
     - '#5F827C'
   rhythmicContrast: 0.6259357
-typography_spectrum: 0.1044776
 name: Kevin Westby Media
